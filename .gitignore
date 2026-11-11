@@ -1,6 +1,11 @@
+
 __pycache__/
 *.pyc
+
 dataset/
-dataset_raw/*/*
+# dataset_raw/
+
 models/*.keras
+
 .venv/
+
